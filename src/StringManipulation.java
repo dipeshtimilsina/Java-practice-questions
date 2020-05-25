@@ -5,6 +5,6 @@ public class StringManipulation {
         System.out.println(str.charAt(5)); //i
         System.out.println(str.substring(0,4)); //here, you need to be careful to have 'This printed'
                                                 //you will need to go from 0,4 and not 0,3
-
+        System.out.println(str.substring(10,16));
     }
 }
