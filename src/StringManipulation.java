@@ -7,5 +7,7 @@ public class StringManipulation {
                                                 //you will need to go from 0,4 and not 0,3
         System.out.println(str.substring(4,9));
         System.out.println(str.length());
+        System.out.println(str.substring(1)); //takes all the other element after 1 when the ending element
+                                              //is undefined
     }
 }
