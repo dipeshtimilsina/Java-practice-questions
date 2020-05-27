@@ -16,12 +16,12 @@ public class MyTest {
     public static String logic(String input){
         input= input.toLowerCase();
         String ans= "";
-        for (int i=0;i<input.length();i++{
-            String l= String.valueOf()
+        for (int i=0;i<input.length();i++){
+            String l= String.valueOf(input);
         }
         //Write your code here
         //You can create other functions and call from here
         //Don't print anything. Just return the intended output
-
+        return input;
     }
 }
