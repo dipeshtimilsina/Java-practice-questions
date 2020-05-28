@@ -26,7 +26,7 @@ public class MyTest {
         String ans= "";
         for (int i=0;i<input.length();i++){
             String l= String.valueOf(input.charAt(i));
-            if (l.equals("i") || l.equals("e")||l.equals("i")||l.equals("o")||l.equals("u")){
+            if (l.equals("a") || l.equals("e")||l.equals("i")||l.equals("o")||l.equals("u")){
                 ans+=l;
             }
             else if (l.equals(" ")){
