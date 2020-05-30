@@ -9,5 +9,7 @@ public class StringManipulation {
         System.out.println(str.length());
         System.out.println(str.substring(1)); //takes all the other element after 1 when the ending element
                                               //is undefined
+        System.out.println(str.charAt(str.length()-1));
+        System.out.println(str.length());
     }
 }
